@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "avatar": "https://aif-s3.aif.ru/images/031/896/4e3bdf75d02ab23a01dc73634ee2d2a7.jpg",
+      "name": "a",
+      "password": "a",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "title": "Пицца Миксик",
+      "url": "https://dodopizza-a.akamaihd.net/static/Img/Products/6f369872bdf6467b8054522fdc864ed1_584x584.webp",
+      "Price": "300",
+      "desk": "Ветчина из цыпленка, цыпленок, томаты, кубики брынзы, моцарелла, соус альфредо",
+      "id": 1
+    },
+    {
+      "title": "peperony",
+      "url": "https://dodopizza-a.akamaihd.net/static/Img/Products/6f369872bdf6467b8054522fdc864ed1_584x584.webp",
+      "Price": "300",
+      "desk": "Ветчина из цыпленка, цыпленок, томаты, кубики брынзы, моцарелла, соус альфредо",
+      "id": 2
+    },
+    {
+      "title": "4 сезона",
+      "url": "https://dodopizza-a.akamaihd.net/static/Img/Products/6f369872bdf6467b8054522fdc864ed1_584x584.webp",
+      "Price": "300",
+      "desk": "Ветчина из цыпленка, цыпленок, томаты, кубики брынзы, моцарелла, соус альфредо",
+      "id": 3
+    },
+    {
+      "title": "гаваи",
+      "url": "https://dodopizza-a.akamaihd.net/static/Img/Products/6f369872bdf6467b8054522fdc864ed1_584x584.webp",
+      "Price": "300",
+      "desk": "Ветчина из цыпленка, цыпленок, томаты, кубики брынзы, моцарелла, соус альфредо",
+      "id": 4
+    },
+    {
+      "title": "смерть",
+      "url": "https://dodopizza-a.akamaihd.net/static/Img/Products/6f369872bdf6467b8054522fdc864ed1_584x584.webp",
+      "Price": "300",
+      "desk": "Ветчина из цыпленка, цыпленок, томаты, кубики брынзы, моцарелла, соус альфредо",
+      "id": 4
+    }
+  ]
+}
